@@ -2,6 +2,7 @@
 
 This is an application which provides smart bengali writing using english phonetics.
 
+![Thumbnail](./images/app.png)
 
 ## Getting started
 
